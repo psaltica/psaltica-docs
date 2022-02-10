@@ -1,0 +1,3 @@
+= Digital encoding of byzantine musical texts
+
+The goal of this project is to design and specify a digital encoding of byzantine musical texts (scores) which captures the fundamental musical and notational aspects of the music.

@@ -1,0 +1,11 @@
+= Psaltica
+
+This repository hosts some ideas and discussions about the convergence of two distinct domains: byzantine music and information technology.
+
+== Projects
+The following project ideas are currently explored:
+
+* a digital encoding format for byzantine musical texts
+* an online database/collection of byzantine texts along with performances
+* an open-source byzantine music editor and playback engine
+* a set of tools to aid the learning and analysis of byzantine music
